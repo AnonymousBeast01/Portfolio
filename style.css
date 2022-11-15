@@ -254,6 +254,8 @@ section.hero {
 }
 .download-app img {
   display: block;
+   height: 50vh;
+  width: 50vh;
 }
 .app-feature {
   border-bottom: 1.5px dashed rgba(var(--grad-color-1), 0.4);
